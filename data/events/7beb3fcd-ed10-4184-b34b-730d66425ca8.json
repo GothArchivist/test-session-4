@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "eb9f7c9a-c847-46f3-9c3d-62f20e28f350": {
+      "label": "Theoretical Theatre",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia601500.us.archive.org/20/items/Oana-theoretical-theatre/Avasilichioaei%20%22Theoretical%20Theatre%22.mp3",
+      "duration": 133
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Theoretical Theatre",
+  "created_at": "2025-05-14T19:01:17.276Z",
+  "created_by": "GothArchivist",
+  "updated_at": "2025-05-14T19:01:17.276Z",
+  "updated_by": "GothArchivist"
+}
